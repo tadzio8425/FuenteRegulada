@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=Vin Pin=T1-1
+Removed Pin From Net: NetName=GND Pin=T1-2
+Removed Pin From Net: NetName=Vt Pin=T1-3
+Change Footprint: Cannot match pads with new footprint in component :T1 Footprint:TE_282837-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-3
+Added Pin To Net: NetName=Vin Pin=T1-3
+Add Pin To Net: Unknown Pin: Pin T1-
+Add Pin To Net: Unknown Pin: Pin T1-
+Add Pin To Net: Unknown Pin: Pin VAC-1
+Add Pin To Net: Unknown Pin: Pin VAC-2
+Add Class Member: Failed to add class member : Component R2 Potentiometer
+Add Class Member: Failed to add class member : Component VAC SIN(0 169.7056275 60Hz 0 0 0)

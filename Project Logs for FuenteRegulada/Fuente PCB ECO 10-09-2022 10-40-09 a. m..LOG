@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=NetD3_1 Pin=D3-A
+Added Pin To Net: NetName=GND Pin=D3-C
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-3
+Add Pin To Net: Unknown Pin: Pin T1-
+Add Pin To Net: Unknown Pin: Pin T1-
+Add Pin To Net: Unknown Pin: Pin VAC-1
+Add Pin To Net: Unknown Pin: Pin VAC-2
+Add Class Member: Failed to add class member : Component R2 Potentiometer
+Add Class Member: Failed to add class member : Component VAC SIN(0 169.7056275 60Hz 0 0 0)

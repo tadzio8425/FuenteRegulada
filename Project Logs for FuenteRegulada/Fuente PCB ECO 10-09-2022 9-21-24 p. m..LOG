@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=CF3-NEG
+Removed Pin From Net: NetName=NetCF1_2 Pin=CF3-POS
+Removed Pin From Net: NetName=GND Pin=CF4-NEG
+Removed Pin From Net: NetName=NetCF1_2 Pin=CF4-POS
+Removed Member From Class: ClassName=FuenteCompleta Member=CF3
+Removed Member From Class: ClassName=FuenteCompleta Member=CF4
+Add Pin To Net: Unknown Pin: Pin T1-1
+Add Pin To Net: Unknown Pin: Pin T1-2
+Add Pin To Net: Unknown Pin: Pin T1-3
+Add Pin To Net: Unknown Pin: Pin T1-4
+Add Pin To Net: Unknown Pin: Pin Vin-1
+Add Pin To Net: Unknown Pin: Pin Vin-2
+Add Class Member: Failed to add class member : Component T1 Trans
+Add Class Member: Failed to add class member : Component Vin SIN(0 169.7056275 60Hz 0 0 0)
+Added Room: Name=FuenteCompleta

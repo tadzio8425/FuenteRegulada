@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=J3V NewDesignator=J3VOut
+Change Component Designator: OldDesignator=J5V NewDesignator=J5VOut
+Change Component Designator: OldDesignator=J12V NewDesignator=J12VOut
+Change Component Designator: OldDesignator=JS3 NewDesignator=SW3
+Change Component Designator: OldDesignator=JS5 NewDesignator=SW5
+Change Component Designator: OldDesignator=JS12 NewDesignator=SW12
+Add Pin To Net: Unknown Pin: Pin T1-1
+Add Pin To Net: Unknown Pin: Pin T1-2
+Add Pin To Net: Unknown Pin: Pin T1-3
+Add Pin To Net: Unknown Pin: Pin T1-4
+Add Pin To Net: Unknown Pin: Pin Vin-1
+Add Pin To Net: Unknown Pin: Pin Vin-2
+Change Net Name : Old Net Name=NetJS3_1 New Net Name=NetReg3V_3
+Change Net Name : Old Net Name=NetJS5_1 New Net Name=NetReg5V_3
+Change Net Name : Old Net Name=NetJS12_1 New Net Name=NetReg12V_3
+Add Class Member: Failed to add class member : Component T1 Trans
+Add Class Member: Failed to add class member : Component Vin SIN(0 169.7056275 60Hz 0 0 0)
+Added Room: Name=FuenteCompleta

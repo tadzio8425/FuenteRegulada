@@ -1,0 +1,11 @@
+Add Pin To Net: Unknown Pin: Pin T1-1
+Add Pin To Net: Unknown Pin: Pin T1-2
+Add Pin To Net: Unknown Pin: Pin T1-3
+Add Pin To Net: Unknown Pin: Pin T1-4
+Add Pin To Net: Unknown Pin: Pin Vin-2
+Change Net Name : Old Net Name=VF New Net Name=NetF2_2
+Added Pin To Net: NetName=Vin Pin=F1-1
+Added Pin To Net: NetName=Vin Pin=JVAC-2
+Added Net: Name=Vin
+Add Class Member: Failed to add class member : Component T1 Trans
+Add Class Member: Failed to add class member : Component Vin SIN(0 169.7056275 60Hz 0 0 0)

@@ -1,0 +1,75 @@
+Change Component Footprint: Designator=T1 Old Footprint=TE_282837-2 New Footprint=691102710002
+Added Pin To Net: NetName=GND Pin=CT2-1
+Added Pin To Net: NetName=GND Pin=CT3-1
+Added Pin To Net: NetName=GND Pin=CT4-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=CF1-NEG
+Added Pin To Net: NetName=GND Pin=CF2-NEG
+Added Pin To Net: NetName=GND Pin=CF3-NEG
+Added Pin To Net: NetName=GND Pin=CF4-NEG
+Added Pin To Net: NetName=GND Pin=CT1-N
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=GND Pin=D2-C
+Added Pin To Net: NetName=GND Pin=D3-C
+Added Pin To Net: NetName=GND Pin=D4-C
+Added Pin To Net: NetName=GND Pin=D5-C
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_2 Pin=D1-3
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_4 Pin=D1-2
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetD2_1 Pin=RLed-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-A
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=RLed2-1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-A
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=RLed3-1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-A
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=RLed4-1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-A
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=UAdj-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=V3.3Out Pin=CT2-2
+Added Pin To Net: NetName=V3.3Out Pin=J2-1
+Added Pin To Net: NetName=V3.3Out Pin=RLed3-2
+Added Pin To Net: NetName=V3.3Out Pin=U3-2
+Added Net: Name=V3.3Out
+Added Pin To Net: NetName=V5vOut Pin=CT3-2
+Added Pin To Net: NetName=V5vOut Pin=J3-1
+Added Pin To Net: NetName=V5vOut Pin=RLed4-2
+Added Pin To Net: NetName=V5vOut Pin=U5-2
+Added Net: Name=V5vOut
+Added Pin To Net: NetName=V12Out Pin=CT4-2
+Added Pin To Net: NetName=V12Out Pin=J1-1
+Added Pin To Net: NetName=V12Out Pin=RLed2-2
+Added Pin To Net: NetName=V12Out Pin=U4-2
+Added Net: Name=V12Out
+Added Pin To Net: NetName=VAdjOut Pin=J4-1
+Added Pin To Net: NetName=VAdjOut Pin=R1-2
+Added Pin To Net: NetName=VAdjOut Pin=RLed-2
+Added Pin To Net: NetName=VAdjOut Pin=UAdj-2
+Added Pin To Net: NetName=VAdjOut Pin=CT1-P
+Added Net: Name=VAdjOut
+Added Pin To Net: NetName=VF Pin=D1-1
+Added Pin To Net: NetName=VF Pin=U3-3
+Added Pin To Net: NetName=VF Pin=U4-3
+Added Pin To Net: NetName=VF Pin=U5-3
+Added Pin To Net: NetName=VF Pin=UAdj-3
+Added Pin To Net: NetName=VF Pin=CF1-POS
+Added Pin To Net: NetName=VF Pin=CF2-POS
+Added Pin To Net: NetName=VF Pin=CF3-POS
+Added Pin To Net: NetName=VF Pin=CF4-POS
+Added Net: Name=VF
+Added Net: Name=Vin
+Add Class Member: Failed to add class member : Component 1KHz SIN(0 169.7056275 60Hz 0 0 0)
+Add Class Member: Failed to add class member : Component R2 Potentiometer

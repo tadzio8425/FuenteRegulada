@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=T1 Old Footprint=691102710002 New Footprint=691102710002
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-3
+Add Pin To Net: Unknown Pin: Pin T1-
+Add Pin To Net: Unknown Pin: Pin T1-
+Add Pin To Net: Unknown Pin: Pin Vin-1
+Add Pin To Net: Unknown Pin: Pin Vin-2
+Change Net Name : Old Net Name=NetD1_4 New Net Name=Vt
+Add Class Member: Failed to add class member : Component R2 Potentiometer
+Add Class Member: Failed to add class member : Component Vin SIN(0 169.7056275 60Hz 0 0 0)
