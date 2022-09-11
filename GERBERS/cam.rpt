@@ -1,0 +1,21 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Public\Documents\Altium\Projects\FuenteRegulada\GERBERS\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0280		11
+ 2 		0.0330		8
+ 3 		0.0350		4
+ 4 		0.0390		12
+ 5 		0.0480		6
+ 6 		0.0510		27
+ 7 		0.0590		4
+ 8 		0.0830		4
+ 9 		0.0980		4
+ 10 		0.1570		2
