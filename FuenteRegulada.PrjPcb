@@ -252,47 +252,93 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRQCTCIR
 
+[Document13]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=drill.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for FuenteRegulada\Design Rule Check - Fuente.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for FuenteRegulada\Fuente.EXTREP
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for FuenteRegulada\Fuente.GBL
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for FuenteRegulada\Fuente.GBS
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for FuenteRegulada\Fuente.GTL
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for FuenteRegulada\Fuente.GTO
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for FuenteRegulada\Fuente.GTS
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for FuenteRegulada\Fuente.REP
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for FuenteRegulada\Fuente.RUL
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for FuenteRegulada\FuenteRegulada.nsx
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.REP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for FuenteRegulada\Fuente.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for FuenteRegulada\FuenteRegulada.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Simulation\FuenteRegulada.sdf
 DItemRevisionGUID=
 
@@ -557,6 +603,10 @@ OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=3|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Public\Documents\Altium\Projects\FuenteRegulada\Fuente.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=

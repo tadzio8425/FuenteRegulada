@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Fuente.GBR   10/09/2022  11:51:01 p. m.
+Gerber File Extension Report For: Fuente.GBR   16/09/2022  7:20:46 a. m.
 ------------------------------------------------------------------------------------------
 
 
@@ -11,6 +11,4 @@ Layer Extension     Layer Description
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
-.GD1                Drill Drawing                           
-.GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------
