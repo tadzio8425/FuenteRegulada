@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Fuente.GBR   22/09/2022  12:47:07 p. m.
+Gerber File Extension Report For: Fuente.GBR   28/09/2022  8:45:18 a. m.
 ------------------------------------------------------------------------------------------
 
 
@@ -7,8 +7,8 @@ Gerber File Extension Report For: Fuente.GBR   22/09/2022  12:47:07 p. m.
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTO                Top Overlay                             
-.GTS                Top Solder                              
-.GTL                Top Layer                               
-.GBL                Bottom Layer                            
-.GBS                Bottom Solder                           
+.GTS                Bottom Solder                           
+.GTL                Bottom Layer                            
+.GBL                Top Layer                               
+.GBS                Top Solder                              
 ------------------------------------------------------------------------------------------

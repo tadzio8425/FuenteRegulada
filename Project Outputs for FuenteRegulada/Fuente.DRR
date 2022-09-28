@@ -1,8 +1,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Fuente.PcbDoc   22/09/2022  12:47:52 p. m.
+NCDrill File Report For: Fuente.PcbDoc   26/09/2022  12:25:48 p. m.
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Layer Pair : Top Layer to Bottom Layer
+Layer Pair : Bottom Layer to Top Layer
 ASCII RoundHoles File : Fuente.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
@@ -20,4 +20,4 @@ T10     157mil (3.988mm)                                          Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              81
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
