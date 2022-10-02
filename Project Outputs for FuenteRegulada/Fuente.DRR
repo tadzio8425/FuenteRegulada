@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Fuente.PcbDoc   26/09/2022  12:25:48 p. m.
+NCDrill File Report For: Fuente.PcbDoc   28/09/2022  1:42:44 p. m.
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Bottom Layer to Top Layer
@@ -7,12 +7,12 @@ ASCII RoundHoles File : Fuente.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      28mil (0.711mm)                                           Round             11        PTH        5.56inch (141.16mm)
+T1      28mil (0.711mm)                                           Round             11        PTH        7.99inch (203.02mm)
 T2      33mil (0.838mm)                                           Round             8         PTH        3.67inch (93.24mm)
 T3      35mil (0.889mm)                                           Round             4         PTH        3.99inch (101.38mm)
 T4      39mil (0.991mm)                                           Round             12        PTH        3.56inch (90.32mm)
 T5      48mil (1.219mm)                                           Round             6         PTH        2.91inch (73.96mm)
-T6      51mil (1.295mm)                                           Round             27        PTH        15.11inch (383.86mm)
+T6      51mil (1.295mm)                                           Round             27        PTH        14.78inch (375.53mm)
 T7      59mil (1.499mm)                                           Round             4         PTH        0.98inch (25.00mm)
 T8      83mil (2.108mm)                                           Round             4         PTH        2.26inch (57.50mm)
 T9      98mil (2.489mm)                                           Round             3         PTH        10.32inch (262.13mm)
@@ -20,4 +20,4 @@ T10     157mil (3.988mm)                                          Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              81
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

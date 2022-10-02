@@ -1,17 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [FuenteRegulada.PrjPcb]
-   Generated File[Fuente.GTO]
-   Generated File[Fuente.GTS]
-   Generated File[Fuente.GTL]
-   Generated File[Fuente.GBL]
-   Generated File[Fuente.GBS]
-   Generated File[Fuente.RUL]
-   Generated File[Fuente.EXTREP]
-   Generated File[Fuente.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FuenteRegulada.PrjPcb]
+   Generated File[Fuente.TXT]
+   Generated File[Fuente.LDP]
+   Generated File[Fuente.DRR]
 
 
-Files Generated   : 8
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 8:45:18 a. m. On 28/09/2022
+Finished Output Generation At 1:42:44 p. m. On 28/09/2022
